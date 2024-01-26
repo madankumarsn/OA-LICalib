@@ -1,4 +1,4 @@
-# bag
+# rosbag
 topic_lidar: /scan_sim # /velodyne_packets #
 topic_imu: /imu_sim
 
